@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(72,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(72,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(73,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(73,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(104,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(104,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(104,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(104,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(105,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\X\source\repos\extv0.1\extv0.1\source\main.cpp(105,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 72 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  extv0.1.vcxproj -> C:\Users\X\source\repos\extv0.1\Release\extv0.1.exe
