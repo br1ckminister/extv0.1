@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(23,55): error C2065: 'value': undeclared identifier
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(21,4): message : This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(23,55): error C3861: 'value': identifier not found
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(21,4): message : This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(24,10): error C3861: 'value': identifier not found
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(21,4): message : This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+  memory.cpp
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(23,55): error C2065: 'value': undeclared identifier
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(21,4): message : This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(23,55): error C3861: 'value': identifier not found
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(21,4): message : This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(24,10): error C3861: 'value': identifier not found
+C:\Users\X\source\repos\extv0.1\extv0.1\source\memory.h(21,4): message : This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+  Generating Code...
